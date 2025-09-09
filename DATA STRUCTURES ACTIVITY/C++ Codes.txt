@@ -1,0 +1,59 @@
+Birthday,Name, and Current Age:
+https://www.onlinegdb.com/jmt2xkvOD
+
+INTEGER: Odd, Even, Positive or Negative?
+https://www.onlinegdb.com/SrQtFuexZ
+
+YEAR: Leap year or non-leap year?
+https://www.onlinegdb.com/Y5-DfTo2V
+
+3 NUMBERS: which is the largest?
+https://www.onlinegdb.com/vig4sG2lw
+
+Input 2 numbers, choose operator
+https://www.onlinegdb.com/SjEtJtpeA
+
+Calculate 4 average grades
+https://www.onlinegdb.com/hJH3iA-pnD
+
+Triangle Type Checker
+https://www.onlinegdb.com/d2Mu-QTrx-
+
+Password Strenght Checker
+https://www.onlinegdb.com/z9rVbe0QB
+
+Number Guessing Game (With Hints!)
+https://www.onlinegdb.com/bJPTVjBjh
+
+ATM Withdrawal System
+https://www.onlinegdb.com/yRDhKk9tg
+
+Create and Print a 2D Array
+https://www.onlinegdb.com/soV1eAraM
+
+Create an User Input and  Sum of Elements
+https://www.onlinegdb.com/oNHiyX8xl
+
+Create a code that finds the Largest Element in a 2D Array.
+https://www.onlinegdb.com/JciUbyc48
+
+C++ Banking System
+https://onlinegdb.com/OiqA5vAz3
+
+Inverted Right Triangle
+https://onlinegdb.com/NTqTQiY96
+
+Right Triangle
+https://onlinegdb.com/MfwtphU-T
+
+Diamond
+https://onlinegdb.com/ML-Kzk9dX
+
+Isosceles Triangle
+https://onlinegdb.com/Ez9QGwB_3
+
+CALCULATOR
+https://onlinegdb.com/WBjkHV_v8
+
+Array Elements
+https://onlinegdb.com/hkhv9toS8
