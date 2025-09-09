@@ -1,0 +1,25 @@
+//GROUP 10
+//Print Numbers Using Two While Loops
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a = 0;
+    
+    cout << "0 to 10: " << endl;
+    while (a <= 10)  {
+        cout << a << " ";
+        a++;
+    } 
+    cout << endl;
+    
+    cout << "10 to 0: " << endl;
+    int b = 10;
+
+    while (b >= 0)  {
+        cout << b << " ";
+        b--;
+    }
+
+    return 0;
+}

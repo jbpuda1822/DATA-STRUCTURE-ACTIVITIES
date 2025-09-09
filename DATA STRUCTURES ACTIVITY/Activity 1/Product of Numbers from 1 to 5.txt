@@ -1,0 +1,17 @@
+//GROUP 10
+//Product of Numbers from 1 to 5
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a = 1;
+    int product = 1;
+    
+    while (a <= 5) {
+        product *= a;
+        a++;
+    } 
+    cout << "The product of numbers from 1 to 5: "<< product << endl;
+    
+    return 0;
+}
