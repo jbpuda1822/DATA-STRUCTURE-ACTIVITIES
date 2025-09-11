@@ -1,0 +1,42 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int num;
+    string password, input;
+    password = "1234";
+    char letter = 'A';
+    
+    cout << "for loop" << endl;
+    cout << "Enter the number where the countdown will start. (Ex. 5 or 10)" << endl;
+    cout << "Enter a number: ";
+    cin >> num; //input 5 or 10
+
+    for (int i = num; i >= 1; i--) {
+        cout << i << " ";
+    }
+    cout << endl << endl;
+    
+    cout << "while loop" << endl;
+    cout << "Loop continues until you enter the correct password. Try to enter a wrong password" << endl;
+    while (true) {
+        cout << "Enter password: ";
+        cin >> input; // try to input the wrong password
+
+        if (input == password) {
+            cout << "Welcome!";
+            break;
+        } else {
+            cout << "Wrong password, try again.\n";
+        }
+    }
+    cout << endl << endl;
+    
+    cout << "do-while loop (Letters from alphabet)" << endl;
+    do {
+        cout << letter << " ";
+        letter++;
+    } while (letter <= 'Z');
+
+    return 0;
+}
